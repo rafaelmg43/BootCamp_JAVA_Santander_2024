@@ -17,9 +17,10 @@ Repositorio para guia de estudo, BootCamp JAVA Santander 2024, contendo codigos 
 
 ## ✏️Resumo das Aulas
 
-| Etapa | Resumo | Resumo |
-|-------|--------|--------|
-|
+| Etapa | Atividade | Resumo | Projetos|
+|-------|-----------|--------|---------|
+|   1   |Princípios de Desenvolvimento de Software Colaborativo| Introdução ao Java, Git e GitHub e projetos Open Source|[Contribuindo em um Projeto Open Source no GitHub](https://github.com/rafaelmg43/dio-lab-open-source/blob/feat-/community/rafaelmg43/community/rafaelmg43.md)| 
+| 2 | Dominando a Linguagem de Programação java| Desenvolvimento java, Sintaxes, Debugging, Estruturas Condicionais,  Repetições e Tratamentos de execeções.||projeto aqui|
 
 ## 🔎 Referências
 - [Digital Innovation One](https://web.dio.me/)
