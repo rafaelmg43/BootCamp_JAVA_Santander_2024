@@ -20,7 +20,7 @@ Repositorio para guia de estudo, BootCamp JAVA Santander 2024, contendo codigos 
 | Etapa | Atividade | Resumo | Projetos|
 |-------|-----------|--------|---------|
 |   1   |Princípios de Desenvolvimento de Software Colaborativo| Introdução ao Java, Git e GitHub e projetos Open Source|[Contribuindo em um Projeto Open Source no GitHub](https://github.com/rafaelmg43/dio-lab-open-source/blob/feat-/community/rafaelmg43/community/rafaelmg43.md)| 
-| 2 | Dominando a Linguagem de Programação java| Desenvolvimento java, Sintaxes, Debugging, Estruturas Condicionais,  Repetições e Tratamentos de execeções.||projeto aqui|
+| 2 | Dominando a Linguagem de Programação java| Desenvolvimento java, Sintaxes, Debugging, Estruturas Condicionais,  Repetições e Tratamentos de execeções.||[Simulando uma Conta Bancaria Atraves do Terminal Console](https://github.com/rafaelmg43/BootCamp_JAVA_Santander_2024/blob/main/src/edu/Modulo2/DominandoALinguagemDeProgramacaoJava/BDesafioDeProjeto/SimulandoUmaContaBancariaAtravesDoTerminalConsole.java)|
 
 ## 🔎 Referências
 - [Digital Innovation One](https://web.dio.me/)
@@ -30,6 +30,3 @@ Repositorio para guia de estudo, BootCamp JAVA Santander 2024, contendo codigos 
 
 ## Informações Pessoais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santos-886a47219/)
-
-
-
