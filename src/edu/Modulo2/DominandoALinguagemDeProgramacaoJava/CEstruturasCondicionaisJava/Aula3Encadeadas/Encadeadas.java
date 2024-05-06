@@ -1,6 +1,6 @@
-package src.edu.Modulo2.DominandoALinguagemDeProgramacaoJava.CEstruturasCondicionaisJava.Aula3CondicionaisEncadeadas;
+package src.edu.Modulo2.DominandoALinguagemDeProgramacaoJava.CEstruturasCondicionaisJava.Aula3Encadeadas;
 
-public class CondicionaisEncadeadas {
+public class Encadeadas {
 
     public static void main(String[] args) {
         int nota = 8;

@@ -1,4 +1,4 @@
-package src.edu.Modulo2.DominandoALinguagemDeProgramacaoJava.CEstruturasCondicionaisJava.Aula4CondicionaisTernaria;
+package src.edu.Modulo2.DominandoALinguagemDeProgramacaoJava.CEstruturasCondicionaisJava.Aula4Ternaria;
 
 public class CondicionaisTernaria {
     public static void main(String[] args) {

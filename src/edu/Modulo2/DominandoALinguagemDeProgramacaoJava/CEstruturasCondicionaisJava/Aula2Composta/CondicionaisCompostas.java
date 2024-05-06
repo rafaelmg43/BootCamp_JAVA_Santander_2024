@@ -1,4 +1,4 @@
-package src.edu.Modulo2.DominandoALinguagemDeProgramacaoJava.CEstruturasCondicionaisJava.Aula2CondicionaisComposta;
+package src.edu.Modulo2.DominandoALinguagemDeProgramacaoJava.CEstruturasCondicionaisJava.Aula2Composta;
 
 public class CondicionaisCompostas {
 

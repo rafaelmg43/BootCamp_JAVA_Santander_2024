@@ -1,4 +1,4 @@
-package src.edu.Modulo2.DominandoALinguagemDeProgramacaoJava.CEstruturasCondicionaisJava.Aula1CondicionaisSimples;
+package src.edu.Modulo2.DominandoALinguagemDeProgramacaoJava.CEstruturasCondicionaisJava.Aula1Simples;
 
 public class CondicionalSimples {
     //simulando um caixa eletronico
