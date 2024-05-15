@@ -6,7 +6,7 @@ public class FormatadorCepExemplo {
             String cepformatado = formatarCep("2376506");
             System.out.println(cepformatado);
         } catch (CepInvalidoException e) {
-            System.out.println("O cep nao corresponde com as regras de Negocio");;
+            System.out.println("O cep nao corresponde com as regras de Negocio");
         }
     }
 
