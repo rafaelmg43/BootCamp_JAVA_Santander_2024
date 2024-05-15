@@ -2,7 +2,7 @@ package src.edu.Modulo2.DominandoALinguagemDeProgramacaoJava.GDesafiosDeCodigo;
 import java.util.Scanner;
 /**
  * <h1>Condições, Loops e Exceções na Prática com Java</h1>
- * Desafio de código 2 / 5  da DIO - Verificação de Número de Conta Bancária
+ * Desafio de código 4 / 5  da DIO - Verificação de Número de Conta Bancária
  * <p>
  * <b>Note:</b> Desenvolvido na linguagem Java.
  *
