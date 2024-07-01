@@ -24,9 +24,9 @@ public class Main {
         mentoria.setDescricao("Descicao Mentoria java");
         mentoria.setData(LocalDate.now());
 
-//        System.out.println(curso1);
-//        System.out.println(curso2);
-//        System.out.println(mentoria);
+        System.out.println(curso1);
+        System.out.println(curso2);
+        System.out.println(mentoria);
 
         BootCamp bootCamp = new BootCamp();
         bootCamp.setNome("BootCamp Java Developer ");
