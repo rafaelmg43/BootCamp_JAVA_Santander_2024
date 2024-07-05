@@ -1,0 +1,10 @@
+<!-- The Basics -->
+<groupId>...</groupId>
+<artifactId>...</artifactId>
+<version>...</version>
+<packaging>...</packaging>
+<dependencies>...</dependencies>
+<parent>...</parent>
+<dependencyManagement>...</dependencyManagement>
+<modules>...</modules>
+<properties>...</properties>
